@@ -12,7 +12,7 @@
       alt="_time_stamp_" /></div>
 
 <div align="center">
-  <strong>Smart Dock Is A Smart Android X86 Launcher Which Enhance Usebility And Bring New Look To Your X86 Setup 
+  <strong>Smart Dock is a Smart Android X86 launcher which enhance usability and bring new look to your x86 setup 
 </div>
 
 <div align="center">
